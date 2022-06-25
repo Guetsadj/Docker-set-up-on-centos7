@@ -21,7 +21,7 @@ if
 then
 sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo1
 
-exit 2
+exit0
 fi
 #Step 3: Install the docker engine
 
